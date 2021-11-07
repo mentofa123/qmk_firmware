@@ -1,4 +1,4 @@
-## mentofa123's Keychron Q1 keymap (ANSI rev_0100) v1.0.5
+## mentofa123's Keychron Q1 keymap (ANSI rev_0100) v1.0.6
 
 This keymap builds on the keymap by Grayson Carr (gtg465x) and Mike Killewald (mkillewald) with the addition of a rotary knob encoder.
 
@@ -32,6 +32,9 @@ Please make sure to save any customizations you have made in VIA to a .json file
 #### USE AT YOUR OWN RISK
 
 ## Changelog:
+
+v1.0.6  November 7, 2021
+- Rotary Knob is now programmable through via thanks to Drashna Jaelre (drashna). The implementation is based on PR #15025
 
 v1.0.5  November 7, 2021
 - Added Support for a Rotary Knob encoder. Mapped Pins are B7 and E6
